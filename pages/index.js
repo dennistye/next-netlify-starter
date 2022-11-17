@@ -15,9 +15,12 @@ export default function Home() {
         <p className="description">
           amanda <code>pages/index.js</code>
         </p>
+        <Footer title="hey there bud" />
+        <p className="description">
+          amanda <code>pages/index.js</code>
+        </p>
       </main>
-
-      <Footer title="woah there"/>
+      
     </div>
   )
 }
