@@ -14,7 +14,7 @@ export default function Home() {
         <Header title="dennis" />
         <p className="description">
           amanda <code>pages/index.js</code>
-        <background-color: #b46631;
+        //<background-color: #b46631;
        
         </p>
         <Footer title="hey there bud" />
