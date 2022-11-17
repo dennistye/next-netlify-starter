@@ -21,7 +21,7 @@ export default function Home() {
         <p className="description">
           amanda <code>pages/index.js</code>
         </p>
-        <button>Amanda is amazing.<button>
+        <button>"Amanda is amazing."<button>
         //<a target="blank"
         //<fcc-btn {
         //background-color: #199319;
