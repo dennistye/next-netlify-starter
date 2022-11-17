@@ -20,8 +20,8 @@ export default function Home() {
         <Footer title="hey there bud" />
         <p className="description">
           amanda <code>pages/index.js</code>
-        </p>
-        <button>"Amanda is amazing."<button>
+        //</p>
+        //<button>"Amanda is amazing."<button>
         //<a target="blank"
         //<fcc-btn {
         //background-color: #199319;
@@ -29,7 +29,7 @@ export default function Home() {
         //padding: 15px 25px'
         //text-decoration:none;
         //border:none;
-    //</a>
+        //</a>
       </main>
       
     </div>
