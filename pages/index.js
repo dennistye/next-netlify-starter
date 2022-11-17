@@ -21,16 +21,15 @@ export default function Home() {
         <p className="description">
           amanda <code>pages/index.js</code>
         </p>
-       <a href="https://www.dillyworksbyamanda.com/
         <button>Amanda is amazing.<button>
-       <a target="blank"
-       <fcc-btn {
-        background-color: #199319;
-        color: white
-        padding: 15px 25px'
-        text-decoration:none;
-        border:none;
-    </a>
+        //<a target="blank"
+        //<fcc-btn {
+        //background-color: #199319;
+        //color: white
+        //padding: 15px 25px'
+        //text-decoration:none;
+        //border:none;
+    //</a>
       </main>
       
     </div>
