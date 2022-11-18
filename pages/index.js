@@ -7,31 +7,17 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Next.js Starter!</title>
-        //<link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="dennis" />
+        <Header title="Welcome to my app!" />
         <p className="description">
-          amanda <code>pages/index.js</code>
-        //<background-color: #b46631;
-       
+          Get started by editing <code>pages/index.js</code>
         </p>
-        <Footer title="hey there bud" />
-        <p className="description">
-          amanda <code>pages/index.js</code>
-        //</p>
-        //<button>"Amanda is amazing."<button>
-        //<a target="blank"
-        //<fcc-btn {
-        //background-color: #199319;
-        //color: white
-        //padding: 15px 25px'
-        //text-decoration:none;
-        //border:none;
-        //</a>
       </main>
-      
+
+      <Footer />
     </div>
   )
 }
