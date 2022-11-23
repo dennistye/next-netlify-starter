@@ -6,16 +6,16 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
-        <link rel="icon" href="/favicon.ico" />
+        <meta charset="UTF-8" />
+        <meta name="viewport"
+        content="width=device-width,initial-scale=1.0" />
+        <tittle>NEXT Website</tittle>
       </Head>
-
-      <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
-          OOOOOH yeah <code>pages/index.js</code>
-        </p>
-      </main>
+      <body>
+        <h1>
+          Hello
+        </h1>
+      </body>
 
       <Footer />
     </div>
