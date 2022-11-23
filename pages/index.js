@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
       <body>
         <h1>
-          Yoooooo
+          Yooooooo
         </h1>
       </body>
     </div>
