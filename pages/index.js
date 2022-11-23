@@ -11,11 +11,11 @@ export default function Home() {
         content="width=device-width,initial-scale=1.0" />
         <tittle>NEXT Website</tittle>
       </Head>
-      <body>
+      <main>
         <h1>
           Hello
         </h1>
-      </body>
+      </main>
 
       <Footer />
     </div>
